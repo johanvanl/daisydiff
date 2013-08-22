@@ -14,7 +14,7 @@ span.diff-tag-removed {
 
 span.diff-tag-added {
   font-size: 100%;
-  background-color: #ccffcc; /* light green */
+  background-color: #00ff00; /* light green */
 }
 
 span.diff-tag-conflict {
@@ -27,7 +27,7 @@ span.diff-tag-conflict {
  */
 span.diff-html-added {
   font-size: 100%;
-  background-color: #ccffcc; /* light green */
+  background-color: #00ff00; /* light green */
   cursor: pointer;
 }
 
